@@ -1,1 +1,1 @@
-recovery
+rec
